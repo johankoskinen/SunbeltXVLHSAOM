@@ -40,7 +40,7 @@ Examples of loading and formatting network data is provided in
 Markdowns/Data-Formatting.Rmd
 ```
 
-You will find it in  [CHDH-SNA/Markdowns](https://github.com/johankoskinen/SunbeltXVLHSAOM
+You will find it in  [SunbeltXVLHSAOM/Markdowns](https://github.com/johankoskinen/SunbeltXVLHSAOM
 /tree/main/RCode)
 
 No fancy R-wrappers will be used and the code is written entirely in base R and [Quick-R](https://www.statmethods.net/)
